@@ -7,7 +7,7 @@
 - Creating and executing a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
 
 ## What I learned:
-- I gained experience accessing your operating system's command line interface (CLI)
+- Gained experience accessing your operating system's command line interface (CLI)
 - Gained experience working with CLI commands
 - Gained experience working with Visual Studio Code (VSCode)
 - Gained experience writing and executing non-web server Node.js JavaScript code
